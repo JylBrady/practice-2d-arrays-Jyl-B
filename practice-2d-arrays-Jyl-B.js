@@ -36,9 +36,9 @@ let theaterSeating = [  //challenge 2
     ["A1","A2","A3","A4"],
     ["B1","B2","B3","B4"],
     ["C1","C2","C3","C4"]
-]
+];
 
 let contactList = [  //challenge 3
     ["John Boe", "123@email.com", "555-987-6543"],
     ["Jane Boe", "456@email.com", "555-987-1234"]
-]
+];
